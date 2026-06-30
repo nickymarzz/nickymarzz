@@ -1,7 +1,7 @@
 # Hi, I'm Nick
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Nick&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Data%20%7C%20Full-Stack&descAlignY=58&descAlign=50" alt="nickymarzz banner" />
+  <img src="https://capsule-render.vercel.app/api?type=pixel&color=0:ffcc00,50:ff6600,100:ff0066&height=220&section=header&text=NICK%20MARZZ&fontSize=48&fontColor=000000&fontFamily=pressstart2p&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20DATA&descAlignY=58&descAlign=50&animation=blink" alt="nickymarzz retro banner" />
 </p>
 
 <p align="center">
