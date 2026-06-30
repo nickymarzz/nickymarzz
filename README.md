@@ -77,7 +77,7 @@ I am a software developer with hands-on project experience in AI, data analytics
 ## GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nickymarzz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nickymarzz&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=nickymarzz&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
 </p>
 
 ## What I'm looking for
