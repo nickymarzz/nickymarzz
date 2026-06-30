@@ -77,12 +77,8 @@ I am a software developer with hands-on project experience in AI, data analytics
 ## GitHub stats
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=nickymarzz&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=nickymarzz&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
-  </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=nickymarzz&layout=compact&langs_count=10&theme=dark">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=nickymarzz&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
-  </a>
+  <img height="195em" src="https://github-stats-extended.vercel.app/api?username=nickymarzz&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
+  <img height="195em" src="https://github-stats-extended.vercel.app/api/top-langs?username=nickymarzz&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
 </p>
 
 
