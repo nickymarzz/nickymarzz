@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nickymarzz">
-    <img src="https://img.shields.io/github/followers/nickymarzz?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
+  <a href="https://github.com/nickymarzz"><img src="https://img.shields.io/github/followers/nickymarzz?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=nickymarzz&style=for-the-badge&color=2563eb" alt="Profile views" />
 </p>
 
