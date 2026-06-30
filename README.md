@@ -11,10 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=nickymarzz&style=for-the-badge&color=2563eb" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/nickymarzz">GitHub</a> ·
-</p>
-
 ## Professional summary
 
 I am a software developer with hands-on project experience in AI, data analytics, databases, and full-stack application development. My work focuses on building practical systems, from ML-based prediction workflows to automation tools and database-backed applications.
@@ -68,28 +64,19 @@ I am a software developer with hands-on project experience in AI, data analytics
 
 <p align="center">
   <a href="https://github.com/nickymarzz/AI-Config-Auto-Repair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=AI-Config-Auto-Repair&theme=tokyonight&hide_border=true" alt="AI-Config-Auto-Repair" />
   </a>
   <a href="https://github.com/nickymarzz/Food-Freshness-Image-Prediction-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=Food-Freshness-Image-Prediction-System&theme=tokyonight&hide_border=true" alt="Food-Freshness-Image-Prediction-System" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/nickymarzz/UniDB-Database-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=UniDB-Database-Project&theme=tokyonight&hide_border=true" alt="UniDB-Database-Project" />
   </a>
   <a href="https://github.com/nickymarzz/databricksproject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=databricksproject&theme=tokyonight&hide_border=true" alt="databricksproject" />
   </a>
 </p>
 
 ## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nickymarzz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickymarzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nickymarzz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -104,8 +91,6 @@ I am a software developer with hands-on project experience in AI, data analytics
 ## Connect
 
 - GitHub: [github.com/nickymarzz](https://github.com/nickymarzz)
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
-- Email: you@example.com
 
 ---
 
