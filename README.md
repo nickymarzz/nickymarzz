@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=nickymarzz&style=for-the-badge&color=2563eb" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/nickymarzz">GitHub</a> ·
+</p>
+
 ## Professional summary
 
 I am a software developer with hands-on project experience in AI, data analytics, databases, and full-stack application development. My work focuses on building practical systems, from ML-based prediction workflows to automation tools and database-backed applications.
@@ -25,6 +29,13 @@ I am a software developer with hands-on project experience in AI, data analytics
 - Developed a computer vision project for food freshness classification using CNN workflows
 - Created database-backed applications with both frontend and backend components
 - Worked on analytics and dashboard projects using modern data tooling
+
+## Key skills
+
+- Languages: Python, JavaScript, Java, SQL
+- Data/ML: Jupyter, model training workflows, data exploration, evaluation
+- Backend/Web: Flask, REST-style apps, database-backed applications
+- Tooling: Git, reproducible project structure, clean documentation
 
 ## Toolbox
 
@@ -47,6 +58,13 @@ I am a software developer with hands-on project experience in AI, data analytics
 - `Food-Freshness-Image-Prediction-System` - image classification project focused on freshness detection
 - `UniDB-Database-Project` - full-stack database application with structured data workflows
 - `databricksproject` - analytics and dashboard development for data exploration
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [AI-Config-Auto-Repair](https://github.com/nickymarzz/AI-Config-Auto-Repair) | Automation, validation, safe repair workflows | Python |
+| [Food-Freshness-Image-Prediction-System](https://github.com/nickymarzz/Food-Freshness-Image-Prediction-System) | Computer vision pipeline and evaluation | Jupyter / Python |
+| [UniDB-Database-Project](https://github.com/nickymarzz/UniDB-Database-Project) | Full-stack database app structure | JavaScript |
+| [databricksproject](https://github.com/nickymarzz/databricksproject) | Analytics/dashboard work and data exploration | Jupyter / Databricks |
 
 <p align="center">
   <a href="https://github.com/nickymarzz/AI-Config-Auto-Repair">
@@ -86,7 +104,8 @@ I am a software developer with hands-on project experience in AI, data analytics
 ## Connect
 
 - GitHub: [github.com/nickymarzz](https://github.com/nickymarzz)
-- Open to adding LinkedIn, portfolio, or email here
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
+- Email: you@example.com
 
 ---
 
