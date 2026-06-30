@@ -76,9 +76,10 @@ I am a software developer with hands-on project experience in AI, data analytics
 
 ## GitHub stats
 
-<p align="center">
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nickymarzz&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=nickymarzz&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
-</p>
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=nickymarzz&layout=compact&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=nickymarzz&layout=compact&langs_count=10&theme=dark)
+
 
 ## What I'm looking for
 
