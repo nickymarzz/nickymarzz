@@ -1,4 +1,4 @@
-# Hi, I'm Nicky
+# Hi, I'm Nick
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=nickymarzz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Data%20%7C%20Full-Stack&descAlignY=58&descAlign=50" alt="nickymarzz banner" />
