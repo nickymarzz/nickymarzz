@@ -1,7 +1,7 @@
 # Hi, I'm Nick
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=nickymarzz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Data%20%7C%20Full-Stack&descAlignY=58&descAlign=50" alt="nickymarzz banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Nick&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Data%20%7C%20Full-Stack&descAlignY=58&descAlign=50" alt="nickymarzz banner" />
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@ I am a software developer with hands-on project experience in AI, data analytics
 
 ## Key skills
 
-- Languages: Python, JavaScript, Java, SQL
-- Data/ML: Jupyter, model training workflows, data exploration, evaluation
-- Backend/Web: Flask, REST-style apps, database-backed applications
-- Tooling: Git, reproducible project structure, clean documentation
+- Backend: Python, Flask, REST-style APIs, SQL, database-backed apps
+- Data: Jupyter, Databricks, data cleaning, analysis, dashboard-style reporting
+- ML: computer vision (CNNs), training/evaluation workflows, model experimentation
+- Core: JavaScript, Java, Git, clear documentation and project structure
 
 ## Toolbox
 
