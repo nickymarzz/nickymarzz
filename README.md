@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 # Hi, I'm Nick
 
 <p align="center">
@@ -11,57 +12,64 @@
 
 ## Professional summary
 
-I am a software developer with hands-on project experience in AI, data analytics, databases, and full-stack application development. My work focuses on building practical systems, from ML-based prediction workflows to automation tools and database-backed applications.
+I am a software developer with hands-on project experience in full-stack application development, AI, data analytics, and software engineering. My work focuses on building practical systems, from modern web applications (like MERN stack projects) and ML-based workflows to automation tools and robust backend systems.
 
-- Strongest areas: Python, JavaScript, Java, SQL, Flask, Jupyter, and Databricks
-- Interested in software engineering, data-focused roles, AI-assisted systems, and backend development
+- Strongest areas: JavaScript (MERN), Python, Java, SQL, Flask, and Jupyter
+- Interested in software engineering, full-stack development, AI-assisted systems, and data-focused roles
 - Value clear architecture, practical problem solving, and maintainable implementation
+
+## What I'm looking for
+
+- Software engineering opportunities with room to build production-ready applications
+- Roles involving Python, JavaScript, data systems, AI workflows, or backend development
+- Teams that value learning, shipping, and solving real business problems
 
 ## Highlights
 
-- Built an AI-assisted configuration repair tool for validating JSON files and proposing fixes
-- Developed a computer vision project for food freshness classification using CNN workflows
-- Created database-backed applications with both frontend and backend components
-- Worked on analytics and dashboard projects using modern data tooling
+- Developed full-stack web applications like KERIS and StudyFlow, a robust task management tool for students
+- Engineered an AI-assisted configuration repair tool that reduces manual debugging time by validating JSON files in real-time
+- Built efficient Java-based applications, including a Bank Management System
+- Implemented image and digital signal processing pipelines using Jupyter and MATLAB for advanced analytics
 
 ## Key skills
 
-- Backend: Python, Flask, REST-style APIs, SQL, database-backed apps
-- Data: Jupyter, Databricks, data cleaning, analysis, dashboard-style reporting
-- ML: computer vision (CNNs), training/evaluation workflows, model experimentation
-- Core: JavaScript, Java, Git, clear documentation and project structure
+- Full-Stack & Frontend: JavaScript, MERN stack, HTML/CSS, PHP
+- Backend: Python, Flask, Java, REST-style APIs, SQL
+- Data & ML: Jupyter, Databricks, computer vision (CNNs), image & signal processing
+- Core: Git, GitHub workflows, clear documentation, project management
 
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,flask,html,css,mysql,git,github,vscode&theme=dark&perline=5" alt="Skills icons" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,python,java,flask,html,css,mysql,git,github,vscode&theme=dark&perline=6" alt="Skills icons" />
 </p>
 
 ## Featured projects
 
-- `AI-Config-Auto-Repair` - automation and validation workflow using AI-assisted repair suggestions
-- `Food-Freshness-Image-Prediction-System` - image classification project focused on freshness detection
-- `UniDB-Database-Project` - full-stack database application with structured data workflows
-- `databricksproject` - analytics and dashboard development for data exploration
-
 | Project | What it demonstrates | Stack |
-|---|---|---|
-| [AI-Config-Auto-Repair](https://github.com/nickymarzz/AI-Config-Auto-Repair) | Automation, validation, safe repair workflows | Python |
+| --- | --- | --- |
+| [studyflow-app](https://github.com/nickymarzz/studyflow-app) | Open-source task/project management tool | JavaScript |
+| [kerisfullstack-rework](https://github.com/nickymarzz/kerisfullstack-rework) | Full-stack application development (MERN) | JavaScript |
+| [AI-Config-Auto-Repair](https://github.com/nickymarzz/AI-Config-Auto-Repair) | Automation, validation, AI-assisted workflows | Python |
+| [Bank-Management-System](https://github.com/nickymarzz/Bank-Management-System) | Object-oriented programming and system design | Java |
+| [Image-Processing-Project](https://github.com/nickymarzz/Image-Processing-Project) | Denoising, interpolation, and image scaling | Jupyter Notebook |
 | [Food-Freshness-Image-Prediction-System](https://github.com/nickymarzz/Food-Freshness-Image-Prediction-System) | Computer vision pipeline and evaluation | Jupyter / Python |
-| [UniDB-Database-Project](https://github.com/nickymarzz/UniDB-Database-Project) | Full-stack database app structure | JavaScript |
-| [databricksproject](https://github.com/nickymarzz/databricksproject) | Analytics/dashboard work and data exploration | Jupyter / Databricks |
 
 <p align="center">
-  <a href="https://github.com/nickymarzz/AI-Config-Auto-Repair">
+  <a href="https://github.com/nickymarzz/studyflow-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=studyflow-app&theme=dark" alt="studyflow-app" />
   </a>
-  <a href="https://github.com/nickymarzz/Food-Freshness-Image-Prediction-System">
+  <a href="https://github.com/nickymarzz/kerisfullstack-rework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=kerisfullstack-rework&theme=dark" alt="kerisfullstack-rework" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nickymarzz/UniDB-Database-Project">
+  <a href="https://github.com/nickymarzz/AI-Config-Auto-Repair">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=AI-Config-Auto-Repair&theme=dark" alt="AI-Config-Auto-Repair" />
   </a>
-  <a href="https://github.com/nickymarzz/databricksproject">
+  <a href="https://github.com/nickymarzz/Bank-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=Bank-Management-System&theme=dark" alt="Bank-Management-System" />
   </a>
 </p>
 
@@ -71,13 +79,6 @@ I am a software developer with hands-on project experience in AI, data analytics
   <img height="250em" src="https://github-stats-extended.vercel.app/api?username=nickymarzz&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
   <img height="250em" src="https://github-stats-extended.vercel.app/api/top-langs?username=nickymarzz&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
 </p>
-
-
-## What I'm looking for
-
-- Software engineering opportunities with room to build production-ready applications
-- Roles involving Python, JavaScript, data systems, AI workflows, or backend development
-- Teams that value learning, shipping, and solving real business problems
 
 ## Connect
 
