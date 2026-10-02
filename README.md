@@ -56,21 +56,13 @@ I am a software developer with hands-on project experience in full-stack applica
 | [Food-Freshness-Image-Prediction-System](https://github.com/nickymarzz/Food-Freshness-Image-Prediction-System) | Computer vision pipeline and evaluation | Jupyter / Python |
 
 <p align="center">
-  <a href="https://github.com/nickymarzz/studyflow-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=studyflow-app&theme=dark&description_lines_count=1" alt="studyflow-app" />
-  </a>
-  <a href="https://github.com/nickymarzz/kerisfullstack-rework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=kerisfullstack-rework&theme=dark&description_lines_count=1" alt="kerisfullstack-rework" />
-  </a>
+  <a href="https://github.com/nickymarzz/studyflow-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=studyflow-app&theme=dark&description_lines_count=1" alt="studyflow-app" /></a>
+  <a href="https://github.com/nickymarzz/kerisfullstack-rework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=kerisfullstack-rework&theme=dark&description_lines_count=1" alt="kerisfullstack-rework" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nickymarzz/AI-Config-Auto-Repair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=AI-Config-Auto-Repair&theme=dark&description_lines_count=1" alt="AI-Config-Auto-Repair" />
-  </a>
-  <a href="https://github.com/nickymarzz/Bank-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=Bank-Management-System&theme=dark&description_lines_count=1" alt="Bank-Management-System" />
-  </a>
+  <a href="https://github.com/nickymarzz/AI-Config-Auto-Repair"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=AI-Config-Auto-Repair&theme=dark&description_lines_count=1" alt="AI-Config-Auto-Repair" /></a>
+  <a href="https://github.com/nickymarzz/Bank-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nickymarzz&repo=Bank-Management-System&theme=dark&description_lines_count=1" alt="Bank-Management-System" /></a>
 </p>
 
 ## GitHub stats
