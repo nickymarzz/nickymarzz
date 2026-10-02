@@ -83,6 +83,7 @@ I am a software developer with hands-on project experience in full-stack applica
 ## Connect
 
 - GitHub: [github.com/nickymarzz](https://github.com/nickymarzz)
+- [Portfolio](https://nickymarzz.github.io)
 
 ---
 
